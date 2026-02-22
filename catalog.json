@@ -6,7 +6,7 @@
   "products": [
     {
       "id": "prod-bd74fa1f-001",
-      "name": "Pro Item 1",
+      "name": "Pro Item 1", 
       "category": "clothing",
       "price": 342.61,
       "stock": 143,
