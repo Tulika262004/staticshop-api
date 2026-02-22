@@ -147,8 +147,9 @@
       "inventoryValue": 22632.92
     },
     "clothing": {
-      "count": 7,
-      "inventoryValue": 156304.48
+       "count": 7,
+       "inventoryValue": 156204.48
+     }
     }
   }
 }
